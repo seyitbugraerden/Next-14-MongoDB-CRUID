@@ -16,4 +16,6 @@ Installation Guide
 
 8- npx prisma generate
 
-9- npx prisma db push
+9- npx prisma migrate dev
+
+10- npx prisma db push
