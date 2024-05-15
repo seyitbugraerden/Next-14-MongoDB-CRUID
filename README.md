@@ -13,3 +13,7 @@ Installation Guide
 6- npx prisma generate
 
 7- Create an utils file & implement {PrismaClient} == PrismaClient()
+
+8- npx prisma generate
+
+9- npx prisma db push
