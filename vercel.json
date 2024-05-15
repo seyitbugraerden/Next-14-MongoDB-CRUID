@@ -1,0 +1,5 @@
+{
+    "env": {
+      "DATABASE_URL": "mongodb+srv://seyitbugraerden:xKxzNrSC4K74eqGo@cluster0.lqtrkop.mongodb.net/todo?retryWrites=true&w=majority"
+    }
+  }
